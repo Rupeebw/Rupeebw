@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupesh
-- 👀 I’m interested in ...AI Agent , GenAI 
+- 👀 I’m interested in ...DevSecOps, CKS , AI Agent , GenAI 
 - 🌱 I’m currently learning ...AI based technology
-- 💞️ I’m looking to collaborate on ...various project on AI
+- 💞️ I’m looking to collaborate on ...various project on DevSecOps, Gen AI
 - 📫 How to reach me ...via github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
